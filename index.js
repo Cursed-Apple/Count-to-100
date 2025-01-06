@@ -15,7 +15,7 @@ function Increment()
         }
     if(increase > 500)
         {
-            increase++;
+            increase += 2;
         }
     
     countDisplay.innerText = increase;
