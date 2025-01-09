@@ -1,2 +1,2 @@
-# Count-to-100
-Simple game where you count to 100 by pressing a button
+# Count-to-infinity
+Simple website where you count to infinity by pressing a button
